@@ -12,3 +12,4 @@
 11.- git branch -d nombre-rama (elinima la rama)
 12.- git push
 13.- git commit -am "mensaje"  (git add . + git commit -m)
+cambio  
