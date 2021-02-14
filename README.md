@@ -7,3 +7,5 @@
 6.- git log
 7.- git commit --amend (modificar el último commit)
 8.- git checkout -b nombre-rama
+9.- git checkout nombre-rama
+10.-
